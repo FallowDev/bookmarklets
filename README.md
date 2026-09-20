@@ -76,4 +76,4 @@ Website: [projects.fallowdeer.eu/bookmarklets](https://projects.fallowdeer.eu/bo
 
 ---
 
-<sub><a href="https://fallowdeer.eu">© Fallow Deer 2026</a> <a href="https://fallowdeer.eu"><img src="https://cdn.fallowdeer.eu/site/favicon.png" alt="Fallow Deer" width="14" height="14"></a></sub>
+<sub><img src="https://cdn.fallowdeer.eu/site/favicon.png" alt="Fallow Deer" width="14" height="14"><a href="https://fallowdeer.eu">© Fallow Deer 2026</a> <a href="https://fallowdeer.eu"></a></sub>
